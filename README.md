@@ -39,8 +39,8 @@ print(analyzer.analyze("上海华安工业（集团）公司董事长谭旭光�
 
 ### 3. [StanfordCoreNLP](。、stanford_corenlp.ipynb)
 
-- 描述：
-- 功能：
+- 描述：Stanfordcorenlp is a Python wrapper for Stanford CoreNLP. It provides a simple API for text processing tasks.
+- 功能：**Tokenization, Part of Speech Tagging, Named Entity Reconigtion, Constituency Parsing, Dependency Parsing, and more.**
 - [Github](https://github.com/stanfordnlp/CoreNLP)
 - [Official](https://stanfordnlp.github.io/CoreNLP/)
 - [Python Wrapper](https://github.com/Good2NLP/stanford-corenlp)
