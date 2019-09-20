@@ -1,6 +1,9 @@
 # awesome_nlp_tools
+
 整理常用的自然语言处理工具(包括Python接口)，如Stanford NLP、NLTK、Spacy、NLPIR、Pyltp、HanLP、Jieba。
+
 Collates commonly used natural language processing tools (including Python interfaces) such as Stanford NLP, NLTK, Spacy, NLPIR, Pyltp, HanLP, Jieba.
+
 ---
 
 ### 1. [Jieba](./jieba.ipynb)
@@ -49,7 +52,7 @@ pip install stanfordcorenlp # 需要下载对应语言版本的模型,或者all 
 ### 4. [NLTK](./nltk.ipynb)
 
 - 描述：NLTK是构建Python程序以使用人类语言数据的领先平台。
-- 功能：分词，分句，实体识别，词干化，标记，解析和语义推理的文本处理库
+- 功能：**分词，分句，实体识别，词干化，标记，解析和语义推理**的文本处理库
 - [Doc](http://www.nltk.org/)
 - [Online](http://www.nltk.org/book/)
 
@@ -63,7 +66,7 @@ nltk.download() # 下载需要的库
 ### 5. [Spacy](https://spacy.io/)
 
 - 描述：一个工业级别的自然语言处理工具目前不支持中文
-- 功能：分词，词性标注，句法分析，命名实体识别，词向量，词干化，词形还原
+- 功能：**分词，词性标注，句法分析，命名实体识别，词向量，词干化，词形还原**
 - [Official](https://spacy.io/)
 
 ```shell
@@ -82,7 +85,7 @@ nltk.download() # 下载需要的库
 ### 6. [PyLTP](https://github.com/HuangFJ/pyltp)
 
 - 描述：pyltp 是 LTP 的 Python 封装，提供了分词，词性标注，命名实体识别，依存句法分析，语义角色标注的功能。
-- 功能：分词，词性标注，命名实体识别，依存句法分析，语义角色标注
+- 功能：**分词，词性标注，命名实体识别，依存句法分析，语义角色标注**
 - [LTP Official](https://github.com/HIT-SCIR/ltp)
 - [LTP Doc](https://ltp.readthedocs.io/zh_CN/latest/begin.html)
 - [PyLTP Official](https://github.com/HuangFJ/pyltp)
