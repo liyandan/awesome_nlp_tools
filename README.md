@@ -150,3 +150,13 @@ python setup.py install
 - 描述：基于Pytorch和torchtext的自然语言处理深度学习框架
 
 - 功能：**命名实体识别、中文分词、词性标注、语义角色标注、情感分析、关系抽取、语言模型、文本相似度、文本蕴含、依存句法分析、词向量训练、聊天机器人、机器翻译、文本摘要**等功能
+
+
+### 12.[PKUSeg-python](https://github.com/lancopku/PKUSeg-python)
+- 描述：北大开源的分词工具，pkuseg多领域中文分词工具
+- 功能：多领域分词（目前支持了新闻领域，网络领域，医药领域，旅游领域，以及混合领域），词性标注
+- 目前仅支持python3
+```shell
+pip install pkuseg -i https://pypi.tuna.tsinghua.edu.cn/simple
+```
+
